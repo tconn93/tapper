@@ -1,0 +1,12 @@
+fastapi==0.115.*          # or latest
+uvicorn[standard]
+sqlalchemy[asyncio]==2.0.*
+asyncpg
+pydantic[email]==2.10.*
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart          # for forms if needed
+python-dotenv
+alembic                   # optional – migrations
+pydantic
+psycopg[binary]
