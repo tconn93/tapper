@@ -23,7 +23,7 @@ With a single `@Service` decorator placed on your service's `main.py`, Tapper au
 ## Installation
 
 ```bash
-pip install tapper
+pip install tyler-ag-tapper
 ```
 
 ## Quick Start
